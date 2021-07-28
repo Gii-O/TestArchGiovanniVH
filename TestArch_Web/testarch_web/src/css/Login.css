@@ -1,0 +1,31 @@
+.containerPrincipal {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid blue;
+  padding: 40px;
+  background-color: white;
+}
+
+.containerAmplio {
+  position: absolute;
+  left: 50%;
+  right: 25%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid blue;
+  padding: 40px;
+  background-color: white;
+}
+
+.containerLogin {
+  text-align: center;
+}
+
+.MiTituloLog{
+  padding: 5px 20px;
+  margin-top: 70px;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+}

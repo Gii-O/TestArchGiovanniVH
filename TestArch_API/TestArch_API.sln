@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestArch_API", "TestArch_API\TestArch_API.csproj", "{3C2EA9A3-85E0-445D-A8E8-0F1C2935C7F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestArch_API.Test", "TestArch_API.Test\TestArch_API.Test.csproj", "{F5E9B6EE-6FB5-4EEF-85A9-FFCA2944E992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2EA9A3-85E0-445D-A8E8-0F1C2935C7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2EA9A3-85E0-445D-A8E8-0F1C2935C7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2EA9A3-85E0-445D-A8E8-0F1C2935C7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2EA9A3-85E0-445D-A8E8-0F1C2935C7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E9B6EE-6FB5-4EEF-85A9-FFCA2944E992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E9B6EE-6FB5-4EEF-85A9-FFCA2944E992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E9B6EE-6FB5-4EEF-85A9-FFCA2944E992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E9B6EE-6FB5-4EEF-85A9-FFCA2944E992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFCBE518-F99B-4C4C-BC69-8B0C1743D347}
+	EndGlobalSection
+EndGlobal
